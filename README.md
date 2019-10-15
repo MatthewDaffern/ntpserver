@@ -3,8 +3,10 @@ ntpserver
 
 A Python based ntp server.
 
-Tested on Linux and Windows7.
+Tested on Linux and Windows 7 and Windows 10
 
 Based on ntplib(https://pypi.python.org/pypi/ntplib/), thanks for their work.
 
-If you have any question, please contact me at limifly@gmail.com.
+
+After I forked it, I've fixed the errors and updated all of the code to Python 3.
+
